@@ -1,4 +1,4 @@
-# Fork Version ReadMe:
+# Fork Version ReadMe
 This is Fork version of Open3D, unofficial CUDA branch, used for calculation acceleration of previous version, intelsl-Open3D.
 
 To see more details(about software part), you can check in theNded/Open3D, /intel-isl/Open3D.
