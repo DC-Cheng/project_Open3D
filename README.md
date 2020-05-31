@@ -26,12 +26,15 @@ https://github.com/devshank3/JetScan<br>
 ## What is JetScan
   A standalone portable 3D scanner with Intel realsense and Jetson Nano.
   ![devshank3](https://raw.githubusercontent.com/devshank3/JETSCAN/master/Scanned_result/IMG_20200117_132752.jpg)
+  {:height="50%" width="50%"}.
   
 ## What is Jetson Nano? (Jetson Nano Developer Kit)
 NVIDIA® Jetson Nano™ Developer Kit is a small, powerful computer that lets you run multiple neural networks in parallel for applications like image classification, object detection, segmentation, and speech processing. All in an easy-to-use platform that runs in as little as 5 watts.
-![NVIDIA](https://developer.nvidia.com/sites/default/files/akamai/embedded/images/jetsonNano/JetsonNano-DevKit_Front-Top_Right_trimmed.jpg)
+![NVIDIA](https://developer.nvidia.com/sites/default/files/akamai/embedded/images/jetsonNano/JetsonNano-DevKit_Front-Top_Right_trimmed.jpg = 250x)
 
 ## What is Open3D?
 Open3D is an open-source library that supports rapid development of software that deals with 3D data. The Open3D frontend exposes a set of carefully selected data structures and algorithms in both C++ and Python. The software is created by INTEL ISL team.
-  ![Open3D](https://raw.githubusercontent.com/intel-isl/Open3D/master/docs/_static/open3d_logo_horizontal.png)
-    ![Open3D](https://raw.githubusercontent.com/intel-isl/Open3D/master/docs/_static/open3d_viewer.png)
+![Open3D](https://raw.githubusercontent.com/intel-isl/Open3D/master/docs/_static/open3d_logo_horizontal.png)
+{:height="50%" width="50%"}.
+![Open3D](https://raw.githubusercontent.com/intel-isl/Open3D/master/docs/_static/open3d_viewer.png)
+{:height="50%" width="50%"}.
