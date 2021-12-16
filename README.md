@@ -1,7 +1,6 @@
 # Objective
 
 * Using Open3D viewer as a visulization tool
-* 
 * Build up an computer vision implementation on a embedded system, Jetson Nano
 
 
